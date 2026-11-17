@@ -19,6 +19,7 @@ I'm Alan Orozco, this is my relevant information:
    - **Certificates** *(Please refer to `Boot.dev-certificates_Alan-Orozco` Repository)*:
      - Introduction to Python course, Finished on November 6, 2026
      - Learn Linux course, Finished on November 13, 2026
+     - Learn Git Course, Finished on November 16, 2026
    - **Projects**
      - Bookbot *(Please refer to `Boot.dev-Project-Bookbot_Alan-Orozco` Repository)*.
 
